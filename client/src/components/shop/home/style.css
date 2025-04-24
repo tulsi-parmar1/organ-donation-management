@@ -7,7 +7,6 @@
   -webkit-transition: 0.2s;
   transition: opacity 0.2s;
 }
-
 .slider::-webkit-slider-thumb {
   -webkit-appearance: none;
   appearance: none;
@@ -17,7 +16,6 @@
   background: #b7791f;
   cursor: pointer;
 }
-
 .slider::-moz-range-thumb {
   width: 18px;
   height: 18px;
